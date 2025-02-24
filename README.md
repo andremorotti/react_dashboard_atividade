@@ -10,7 +10,7 @@ Atividade de Dashboard com React onde fizemos algumas mudanças como cor do side
 ### 1. Clonar o Repositório
 ```sh
 git clone https://github.com/andremorotti/react_dashboard_atividade.git
-cd spotify_search/
+cd react_dashboard_atividade/
 ```
 
 ### 2. Instalar Dependências
