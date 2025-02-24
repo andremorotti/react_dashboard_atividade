@@ -9,7 +9,7 @@ Atividade de Dashboard com React onde fizemos algumas mudanças como cor do side
 
 ### 1. Clonar o Repositório
 ```sh
-[git clone https://github.com/andremorotti/spotify_search.git](https://github.com/andremorotti/react_dashboard_atividade.git)
+git clone https://github.com/andremorotti/react_dashboard_atividade.git
 cd spotify_search/
 ```
 
